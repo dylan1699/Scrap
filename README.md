@@ -1,6 +1,6 @@
 # Scrap
 
-## *Sarabh Jha*
+## *Saurabh Jha*
 
 **** in terminal 
  use "pip install beautifulsoup4" to install beautiful soup in your project
